@@ -1,0 +1,90 @@
+# Default Configuration for Audiobook Character Voice Classification
+
+# Data Configuration
+data:
+  characters_dir: "characters"
+  new_samples_dir: "new_samples"
+  sample_rate: 16000
+  duration: 8.0  # seconds
+  train_split: 0.7
+  val_split: 0.15
+  test_split: 0.15
+  min_clips_per_character: 50
+  random_seed: 42
+
+# Model Configuration
+model:
+  name: "facebook/wav2vec2-base"
+  freeze_layers: 6  # Freeze first 6 transformer layers
+  dropout: 0.3
+  classifier_hidden_dims: [256, 128]
+
+# Training Configuration
+training:
+  batch_size: 16
+  accumulation_steps: 2  # Effective batch size = 32
+  epochs: 30
+  learning_rate: 2e-5
+  classifier_learning_rate: 2e-4  # Higher LR for new layers
+  weight_decay: 0.01
+  early_stopping_patience: 5
+  gradient_clip: 1.0
+  label_smoothing: 0.1
+  warmup_steps: 100
+  scheduler: "cosine"  # cosine, linear, or none
+  save_every_n_epochs: 5
+
+# Augmentation Configuration
+augmentation:
+  enabled: true
+  noise:
+    enabled: true
+    probability: 0.7
+    min_amplitude: 0.001
+    max_amplitude: 0.015
+  time_stretch:
+    enabled: true
+    probability: 0.4
+    min_rate: 0.9
+    max_rate: 1.1
+  gain:
+    enabled: true
+    probability: 0.5
+    min_gain_db: -6
+    max_gain_db: 6
+  pitch_shift:
+    enabled: true
+    probability: 0.3
+    min_semitones: -1
+    max_semitones: 1
+  time_shift:
+    enabled: true
+    probability: 0.3
+    min_fraction: -0.2
+    max_fraction: 0.2
+
+# Preprocessing Configuration
+preprocessing:
+  target_db: -3.0  # Normalization target
+  silence_threshold_db: 20
+  trim_silence: true
+  convert_to_mono: true
+
+# Inference Configuration
+inference:
+  confidence_threshold: 0.5  # Warn if below this
+  top_k: 5  # Show top K predictions
+  batch_size: 8
+
+# Paths
+paths:
+  data_splits_dir: "data/splits"
+  cache_dir: "data/cache"
+  models_dir: "models"
+  checkpoints_dir: "models/checkpoints"
+  results_dir: "results"
+
+# Device Configuration
+device:
+  use_cuda_if_available: true
+  num_workers: 4  # DataLoader workers
