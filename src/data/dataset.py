@@ -5,7 +5,7 @@ from torch.utils.data import Dataset
 from typing import Dict, Optional, Callable
 from pathlib import Path
 
-from .preprocessing import preprocess_audio
+from .preprocessing import preprocess_audio, pad_or_trim
 from .augmentation import AudioAugmenter
 
 
@@ -83,6 +83,9 @@ class CharacterVoiceDataset(Dataset):
             # Apply augmentation if available
             if self.augmenter is not None:
                 waveform = self.augmenter(waveform)
+                # TimeStretch can change the number of samples, so re-enforce fixed length
+                target_samples = int(self.sample_rate * self.duration)
+                waveform = pad_or_trim(waveform, target_samples, mode=self.pad_mode)
 
             # Squeeze to (samples,) for wav2vec2
             waveform = waveform.squeeze(0)

@@ -159,7 +159,7 @@ class Trainer:
 
                 # Update progress bar
                 progress_bar.set_postfix({
-                    'loss': f'{total_loss / (len(progress_bar.n) + 1):.4f}',
+                    'loss': f'{total_loss / (progress_bar.n + 1):.4f}',
                     'acc': f'{correct / total:.4f}'
                 })
 

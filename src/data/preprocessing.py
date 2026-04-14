@@ -244,7 +244,7 @@ def preprocess_audio(
     return waveform
 
 
-def validate_audio_file(audio_path: str, min_duration: float = 3.0) -> Tuple[bool, str]:
+def validate_audio_file(audio_path: str, min_duration: float = 2.0) -> Tuple[bool, str]:
     """
     Validate audio file.
 

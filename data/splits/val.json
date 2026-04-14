@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian/T2.wav",
+      "character": "Teravangian"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C38.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z11.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y10.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D7.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D11.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K15.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K11.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K18.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y26.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y27.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C44.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C13.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S2.wav",
+      "character": "Syl_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z21.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R1.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C17.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D19.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C6.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C24.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y11.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z14.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C47.wav",
+      "character": "Chelon_female"
+    }
+  ],
+  "character_to_idx": {
+    "Chelon_female": 0,
+    "Dallinar": 1,
+    "Kaladin_male": 2,
+    "Rock_male": 3,
+    "Syl_male": 4,
+    "Teravangian": 5,
+    "Yasna_female": 6,
+    "Zeth_male": 7
+  },
+  "idx_to_character": {
+    "0": "Chelon_female",
+    "1": "Dallinar",
+    "2": "Kaladin_male",
+    "3": "Rock_male",
+    "4": "Syl_male",
+    "5": "Teravangian",
+    "6": "Yasna_female",
+    "7": "Zeth_male"
+  },
+  "num_characters": 8
+}

@@ -87,8 +87,8 @@ class AudioAugmenter:
             shift_config = self.config['time_shift']
             augmentations.append(
                 Shift(
-                    min_fraction=shift_config.get('min_fraction', -0.2),
-                    max_fraction=shift_config.get('max_fraction', 0.2),
+                    min_shift=shift_config.get('min_fraction', -0.2),
+                    max_shift=shift_config.get('max_fraction', 0.2),
                     p=shift_config.get('probability', 0.3),
                     rollover=False
                 )

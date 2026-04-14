@@ -24,8 +24,8 @@ training:
   batch_size: 16
   accumulation_steps: 2  # Effective batch size = 32
   epochs: 30
-  learning_rate: 2e-5
-  classifier_learning_rate: 2e-4  # Higher LR for new layers
+  learning_rate: 2.0e-5
+  classifier_learning_rate: 2.0e-4  # Higher LR for new layers
   weight_decay: 0.01
   early_stopping_patience: 5
   gradient_clip: 1.0
