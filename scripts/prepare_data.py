@@ -84,25 +84,46 @@ def main():
         action='store_true',
         help='Skip audio file validation'
     )
+    parser.add_argument(
+        '--include_characters',
+        type=str,
+        nargs='+',
+        default=None,
+        metavar='CHARACTER',
+        help='Only include these characters (space-separated). Overrides config.'
+    )
 
     args = parser.parse_args()
 
     # Load configuration
     config = load_config(args.config)
 
+    # Resolve include_characters: CLI overrides config
+    include_characters = args.include_characters or config.data.include_characters or None
+
+    # Derive run name and output directory from character set
+    if include_characters:
+        run_name = "_".join(sorted(include_characters))
+        default_output = str(Path(config.paths.data_splits_dir) / run_name)
+    else:
+        run_name = None
+        default_output = config.paths.data_splits_dir
+
     # Get directories
     characters_dir = args.characters_dir or config.data.characters_dir
-    output_dir = args.output_dir or config.paths.data_splits_dir
+    output_dir = args.output_dir or default_output
 
     print("\n" + "=" * 60)
     print("DATA PREPARATION")
     print("=" * 60)
     print(f"\nCharacters directory: {characters_dir}")
     print(f"Output directory: {output_dir}")
+    if run_name:
+        print(f"Run name: {run_name}")
 
     # Discover character audio files
     print("\nDiscovering character audio files...")
-    character_files = discover_characters(characters_dir)
+    character_files = discover_characters(characters_dir, include_characters=include_characters)
 
     if not character_files:
         print("\n❌ Error: No character directories found!")
@@ -158,7 +179,11 @@ def main():
     print("\n✓ Data preparation complete!")
     print(f"\nNext steps:")
     print(f"  1. Review splits in {output_dir}")
-    print(f"  2. Train model: python scripts/train.py")
+    if include_characters:
+        chars_arg = " ".join(include_characters)
+        print(f"  2. Train model: python scripts/train.py --include_characters {chars_arg}")
+    else:
+        print(f"  2. Train model: python scripts/train.py")
 
 
 if __name__ == "__main__":

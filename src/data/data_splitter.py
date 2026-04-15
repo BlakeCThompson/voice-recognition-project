@@ -8,7 +8,7 @@ from collections import defaultdict
 from sklearn.model_selection import train_test_split
 
 
-def discover_characters(characters_dir: str) -> Dict[str, List[str]]:
+def discover_characters(characters_dir: str, include_characters: list = None) -> Dict[str, List[str]]:
     """
     Discover character audio files from directory structure.
 
@@ -50,6 +50,12 @@ def discover_characters(characters_dir: str) -> Dict[str, List[str]]:
 
         # Store absolute paths as strings
         character_files[character_name] = [str(f.absolute()) for f in sorted(audio_files)]
+
+    if include_characters:
+        missing = set(include_characters) - set(character_files.keys())
+        if missing:
+            print(f"Warning: Characters not found in directory: {', '.join(sorted(missing))}")
+        character_files = {k: v for k, v in character_files.items() if k in include_characters}
 
     return dict(character_files)
 

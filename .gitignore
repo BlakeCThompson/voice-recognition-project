@@ -38,8 +38,6 @@ ENV/
 .vscode/
 
 # Data files (large audio files)
-characters/
-new_samples/
 data/cache/
 
 # Keep splits but ignore if too large

@@ -35,10 +35,13 @@ from src.models.wav2vec2_classifier import CharacterVoiceClassifier
 from src.utils.visualization import create_prediction_bar
 
 
-def load_model_and_metadata(config):
+def load_model_and_metadata(config, models_dir=None):
     """Load trained model and metadata."""
+    if models_dir is None:
+        models_dir = config.paths.models_dir
+
     # Model path
-    model_path = Path(config.paths.models_dir) / "best_model.pt"
+    model_path = Path(models_dir) / "best_model.pt"
 
     if not model_path.exists():
         print(f"\n{Fore.RED}❌ Error: Model not found: {model_path}")
@@ -46,7 +49,7 @@ def load_model_and_metadata(config):
         sys.exit(1)
 
     # Metadata path
-    metadata_path = Path(config.paths.models_dir) / "metadata.json"
+    metadata_path = Path(models_dir) / "metadata.json"
     if not metadata_path.exists():
         print(f"\n{Fore.RED}❌ Error: Metadata not found: {metadata_path}")
         sys.exit(1)
@@ -347,6 +350,14 @@ Examples:
         default=None,
         help='Show only top K predictions (default: all)'
     )
+    parser.add_argument(
+        '--include_characters',
+        type=str,
+        nargs='+',
+        default=None,
+        metavar='CHARACTER',
+        help='Load the model trained on this character subset (space-separated)'
+    )
 
     args = parser.parse_args()
 
@@ -363,6 +374,14 @@ Examples:
     # Load configuration
     config = load_config(args.config)
 
+    # Resolve model directory from character subset if specified
+    include_characters = args.include_characters or config.data.include_characters or None
+    if include_characters:
+        run_name = "_".join(sorted(include_characters))
+        models_dir = str(Path(config.paths.models_dir) / run_name)
+    else:
+        models_dir = None  # load_model_and_metadata will use config default
+
     # Get threshold
     threshold = args.threshold or config.inference.confidence_threshold
 
@@ -372,7 +391,7 @@ Examples:
 
     # Load model
     print(f"\n{Fore.CYAN}Loading model...")
-    model, metadata, device = load_model_and_metadata(config)
+    model, metadata, device = load_model_and_metadata(config, models_dir=models_dir)
     print(f"{Fore.GREEN}✓ Model loaded successfully")
     print(f"{Fore.WHITE}  Characters: {', '.join([metadata['idx_to_character'][str(i)] for i in range(metadata['num_characters'])])}")
     print(f"{Fore.WHITE}  Device: {device}")

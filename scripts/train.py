@@ -33,15 +33,37 @@ def main():
         default=None,
         help='Path to checkpoint to resume from'
     )
+    parser.add_argument(
+        '--include_characters',
+        type=str,
+        nargs='+',
+        default=None,
+        metavar='CHARACTER',
+        help='Train on this character subset (must match a prior prepare_data.py run)'
+    )
 
     args = parser.parse_args()
 
     # Load configuration
     config = load_config(args.config)
 
+    # Resolve character subset and derive run-specific paths
+    include_characters = args.include_characters or config.data.include_characters or None
+    if include_characters:
+        run_name = "_".join(sorted(include_characters))
+        splits_dir = Path(config.paths.data_splits_dir) / run_name
+        models_dir = str(Path(config.paths.models_dir) / run_name)
+        results_dir = str(Path(config.paths.results_dir) / run_name)
+    else:
+        splits_dir = Path(config.paths.data_splits_dir)
+        models_dir = config.paths.models_dir
+        results_dir = config.paths.results_dir
+
     print("\n" + "=" * 60)
     print("CHARACTER VOICE CLASSIFICATION - TRAINING")
     print("=" * 60)
+    if include_characters:
+        print(f"\nCharacter subset: {', '.join(sorted(include_characters))}")
 
     # Set device
     device = torch.device('cuda' if torch.cuda.is_available() and config.device.use_cuda_if_available else 'cpu')
@@ -49,7 +71,6 @@ def main():
 
     # Load data splits
     print("\nLoading data splits...")
-    splits_dir = Path(config.paths.data_splits_dir)
 
     if not splits_dir.exists():
         print(f"\n❌ Error: Splits directory not found: {splits_dir}")
@@ -127,7 +148,7 @@ def main():
         }
     }
 
-    metadata_path = Path(config.paths.models_dir) / "metadata.json"
+    metadata_path = Path(models_dir) / "metadata.json"
     metadata_path.parent.mkdir(parents=True, exist_ok=True)
     with open(metadata_path, 'w') as f:
         json.dump(metadata, f, indent=2)
@@ -189,23 +210,22 @@ def main():
     # Train
     trainer.train(
         num_epochs=config.training.epochs,
-        save_dir=config.paths.models_dir,
+        save_dir=models_dir,
         early_stopping_patience=config.training.early_stopping_patience,
         save_every_n_epochs=config.training.save_every_n_epochs
     )
 
     # Plot training curves
     print("\nGenerating training curves...")
-    results_dir = Path(config.paths.results_dir)
-    results_dir.mkdir(parents=True, exist_ok=True)
+    Path(results_dir).mkdir(parents=True, exist_ok=True)
     plot_training_curves(
         trainer.history,
-        save_path=results_dir / "training_curves.png"
+        save_path=Path(results_dir) / "training_curves.png"
     )
 
     print("\n✓ Training complete!")
-    print(f"\nBest model saved to: {config.paths.models_dir}/best_model.pt")
-    print(f"Results saved to: {config.paths.results_dir}")
+    print(f"\nBest model saved to: {models_dir}/best_model.pt")
+    print(f"Results saved to: {results_dir}")
     print(f"\nNext steps:")
     print(f"  1. Evaluate model: python scripts/evaluate.py")
     print(f"  2. Make predictions: python scripts/predict.py --audio new_samples/clip.wav")

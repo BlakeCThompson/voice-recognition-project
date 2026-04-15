@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D142.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D12.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K60.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K19.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z13.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K9.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R101.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D130.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D117.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D121.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K8.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D128.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D29.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R7.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R30.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K22.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K49.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D145.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R34.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D26.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D114.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R21.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z8.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Sullied_by_association.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K7.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z29.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/Rock1.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D131.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D21.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D22.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K18.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z31.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z26.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D28.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D164.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R10.wav",
+      "character": "Rock_male"
+    }
+  ],
+  "character_to_idx": {
+    "Dallinar": 0,
+    "Kaladin_male": 1,
+    "Rock_male": 2,
+    "Zeth_male": 3
+  },
+  "idx_to_character": {
+    "0": "Dallinar",
+    "1": "Kaladin_male",
+    "2": "Rock_male",
+    "3": "Zeth_male"
+  },
+  "num_characters": 4
+}

@@ -1,283 +1,103 @@
 {
   "data": [
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z1.wav",
-      "character": "Zeth_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C20.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C22.wav",
       "character": "Chelon_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian/T3.wav",
-      "character": "Teravangian"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y32.wav",
-      "character": "Yasna_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C3.wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D25.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D163.wav",
       "character": "Dallinar"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y7.wav",
-      "character": "Yasna_female"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/TM20.wav",
+      "character": "Teravangian_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C15.wav",
-      "character": "Chelon_female"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D130.wav",
+      "character": "Dallinar"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K16.wav",
-      "character": "Kaladin_male"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/T3.wav",
+      "character": "Teravangian_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K23.wav",
-      "character": "Kaladin_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y12.wav",
-      "character": "Yasna_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian/T5.wav",
-      "character": "Teravangian"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian/T10.wav",
-      "character": "Teravangian"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C31.wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y5.wav",
-      "character": "Yasna_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C41.wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y19.wav",
-      "character": "Yasna_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z24.wav",
-      "character": "Zeth_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C46.wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K1.wav",
-      "character": "Kaladin_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z17.wav",
-      "character": "Zeth_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C30.wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y15.wav",
-      "character": "Yasna_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C36.wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y14.wav",
-      "character": "Yasna_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y17.wav",
-      "character": "Yasna_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R2.wav",
-      "character": "Rock_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C16.wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z29.wav",
-      "character": "Zeth_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K19.wav",
-      "character": "Kaladin_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K10.wav",
-      "character": "Kaladin_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C40.wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C54.wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C49.wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K2.wav",
-      "character": "Kaladin_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y31.wav",
-      "character": "Yasna_female"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/TM15.wav",
+      "character": "Teravangian_male"
     },
     {
       "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y4.wav",
       "character": "Yasna_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D15.wav",
-      "character": "Dallinar"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D2.wav",
-      "character": "Dallinar"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K7.wav",
-      "character": "Kaladin_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D14.wav",
-      "character": "Dallinar"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C37.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C54.wav",
       "character": "Chelon_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian/T8.wav",
-      "character": "Teravangian"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R25.wav",
+      "character": "Rock_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D1.wav",
-      "character": "Dallinar"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/The Way of Kings: The Stormlight Archive, Book 1 [B003ZWFO7E].wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y1.wav",
-      "character": "Yasna_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D18.wav",
-      "character": "Dallinar"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K9.wav",
-      "character": "Kaladin_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y3.wav",
-      "character": "Yasna_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z30.wav",
-      "character": "Zeth_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K25.wav",
-      "character": "Kaladin_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y9.wav",
-      "character": "Yasna_female"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R7.wav",
+      "character": "Rock_male"
     },
     {
       "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C21.wav",
       "character": "Chelon_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D13.wav",
-      "character": "Dallinar"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R28.wav",
+      "character": "Rock_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D6.wav",
-      "character": "Dallinar"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S15.wav",
+      "character": "Syl_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C32.wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z27.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z18.wav",
       "character": "Zeth_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K13.wav",
-      "character": "Kaladin_male"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C25.wav",
+      "character": "Chelon_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K24.wav",
-      "character": "Kaladin_male"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C46.wav",
+      "character": "Chelon_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z10.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C17.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z20.wav",
       "character": "Zeth_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D8.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D37.wav",
       "character": "Dallinar"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D16.wav",
-      "character": "Dallinar"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z2.wav",
+      "character": "Zeth_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C34.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Sullied_by_association.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C4.wav",
       "character": "Chelon_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D9.wav",
-      "character": "Dallinar"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/Rock.wav",
+      "character": "Rock_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y18.wav",
-      "character": "Yasna_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C10.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C6.wav",
       "character": "Chelon_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C50.wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C43.wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K3.wav",
-      "character": "Kaladin_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/Rock1.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R40.wav",
       "character": "Rock_male"
     },
     {
@@ -285,15 +105,111 @@
       "character": "Kaladin_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D20.wav",
-      "character": "Dallinar"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K22.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K5.wav",
       "character": "Kaladin_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z5.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T35.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T27.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y27.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C133.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K16.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C19.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D116.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D125.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R10.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D119.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S30.wav",
+      "character": "Syl_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D33.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/TM16.wav",
+      "character": "Teravangian_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C39.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R30.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D158.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K8.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R29.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K4.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z32.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K31.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y3.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C29.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C49.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D40.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z28.wav",
       "character": "Zeth_male"
     },
     {
@@ -301,136 +217,972 @@
       "character": "Chelon_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Sullied_by_association.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y9.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S12.wav",
+      "character": "Syl_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D128.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K38.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C37.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y34.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S104.wav",
+      "character": "Syl_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C2.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/TM12.wav",
+      "character": "Teravangian_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T68.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D118.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/T1.wav",
+      "character": "Teravangian_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C26.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S17.wav",
+      "character": "Syl_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K17.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C47.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y150.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/TF2.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K24.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K45.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D160.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z30.wav",
       "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/TM13.wav",
+      "character": "Teravangian_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C142.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/TM22.wav",
+      "character": "Teravangian_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T20.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R9.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y5.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z15.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z22.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C60.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D123.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K25.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C52.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z14.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/TM14.wav",
+      "character": "Teravangian_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C1.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z23.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y58.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K32.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D129.wav",
+      "character": "Dallinar"
     },
     {
       "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C55.wav",
       "character": "Chelon_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K21.wav",
-      "character": "Kaladin_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y28.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y49.wav",
       "character": "Yasna_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z8.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y39.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y47.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R16.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y17.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z11.wav",
       "character": "Zeth_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D4.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T37.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T65.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C18.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D114.wav",
       "character": "Dallinar"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C42.wav",
-      "character": "Chelon_female"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian/T4.wav",
-      "character": "Teravangian"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K4.wav",
-      "character": "Kaladin_male"
-    },
-    {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y23.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y19.wav",
       "character": "Yasna_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C39.wav",
-      "character": "Chelon_female"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D108.wav",
+      "character": "Dallinar"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S3.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z5.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R20.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D9.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S33.wav",
       "character": "Syl_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C23.wav",
-      "character": "Chelon_female"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R101.wav",
+      "character": "Rock_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z12.wav",
-      "character": "Zeth_male"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D1.wav",
+      "character": "Dallinar"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y8.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D21.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T41.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D20.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K49.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y41.wav",
       "character": "Yasna_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C45.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D117.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C43.wav",
       "character": "Chelon_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian/T9.wav",
-      "character": "Teravangian"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T34.wav",
+      "character": "Teravangian_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Zeth.wav",
-      "character": "Zeth_male"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D101.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y55.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T15.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D134.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T28.wav",
+      "character": "Teravangian_female"
     },
     {
       "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C48.wav",
       "character": "Chelon_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C28.wav",
-      "character": "Chelon_female"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R13.wav",
+      "character": "Rock_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D5.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T21.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D169.wav",
       "character": "Dallinar"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D26.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y102.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K66.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K48.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y14.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D10.wav",
       "character": "Dallinar"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C22.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D6.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y18.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C44.wav",
       "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y10.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R105.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y140.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K13.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/TM11.wav",
+      "character": "Teravangian_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/TM26.wav",
+      "character": "Teravangian_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D168.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y28.wav",
+      "character": "Yasna_female"
     },
     {
       "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C35.wav",
       "character": "Chelon_female"
     },
     {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y6.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D11.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/T7.wav",
+      "character": "Teravangian_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C31.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C59.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z33.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D28.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T44.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D5.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C137.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D115.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R33.wav",
+      "character": "Rock_male"
+    },
+    {
       "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K26.wav",
       "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D12.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C16.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C36.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z_25.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y144.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D43.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y12.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y61.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K37.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D161.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R39.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y101.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y42.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T19.wav",
+      "character": "Teravangian_female"
     },
     {
       "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D22.wav",
       "character": "Dallinar"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y22.wav",
-      "character": "Yasna_female"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D164.wav",
+      "character": "Dallinar"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C4.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/T8.wav",
+      "character": "Teravangian_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/T2.wav",
+      "character": "Teravangian_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K6.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T31.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D19.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R3.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z9.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C138.wav",
       "character": "Chelon_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S5.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y29.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D38.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T23.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z19.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D157.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C53.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K23.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D144.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S25.wav",
       "character": "Syl_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D2.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z30 copy.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D31.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T39.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z27.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K61.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D137.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y8.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C135.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R38.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y21.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R14.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y139.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z26.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C42.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D24.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D7.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D142.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S31.wav",
+      "character": "Syl_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T40.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T66.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S6.wav",
+      "character": "Syl_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S102.wav",
+      "character": "Syl_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y23.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T46.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K10.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C140.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y26.wav",
+      "character": "Yasna_female"
     },
     {
       "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z13.wav",
       "character": "Zeth_male"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian/T1.wav",
-      "character": "Teravangian"
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C34.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D30.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D150.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R106.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y1.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y31.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y33.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R44.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y22.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D102.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T32.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z6.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D149.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K39.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R18.wav",
+      "character": "Rock_male"
     },
     {
       "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C9.wav",
       "character": "Chelon_female"
     },
     {
-      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z26.wav",
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C45.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D23.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R17.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C7.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D15.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/TM24.wav",
+      "character": "Teravangian_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C20.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C15.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y45.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D41.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K36.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/TM17.wav",
+      "character": "Teravangian_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S16.wav",
+      "character": "Syl_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y43.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K11.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R26.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y13.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y59.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C136.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K30.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R34.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/TF3.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D25.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z8.wav",
       "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K21.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K34.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R103.wav",
+      "character": "Rock_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S101.wav",
+      "character": "Syl_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y20.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D27.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K14.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Yasna_female/Y54.wav",
+      "character": "Yasna_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C40.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T38.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D111.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D105.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K35.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z12.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T67.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S4.wav",
+      "character": "Syl_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D3.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C120.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_male/T5.wav",
+      "character": "Teravangian_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D141.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D136.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K22.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D34.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T17.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Zeth_male/Z31.wav",
+      "character": "Zeth_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S100.wav",
+      "character": "Syl_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D106.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Kaladin_male/K40.wav",
+      "character": "Kaladin_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Dallinar/D140.wav",
+      "character": "Dallinar"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Syl_male/S14.wav",
+      "character": "Syl_male"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Chelon_female/C134.wav",
+      "character": "Chelon_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Teravangian_female/T43.wav",
+      "character": "Teravangian_female"
+    },
+    {
+      "audio_path": "/Users/blakethompson/PycharmProjects/CS6480/voice-recognition-project/characters/Rock_male/R12.wav",
+      "character": "Rock_male"
     }
   ],
   "character_to_idx": {
@@ -439,9 +1191,10 @@
     "Kaladin_male": 2,
     "Rock_male": 3,
     "Syl_male": 4,
-    "Teravangian": 5,
-    "Yasna_female": 6,
-    "Zeth_male": 7
+    "Teravangian_female": 5,
+    "Teravangian_male": 6,
+    "Yasna_female": 7,
+    "Zeth_male": 8
   },
   "idx_to_character": {
     "0": "Chelon_female",
@@ -449,9 +1202,10 @@
     "2": "Kaladin_male",
     "3": "Rock_male",
     "4": "Syl_male",
-    "5": "Teravangian",
-    "6": "Yasna_female",
-    "7": "Zeth_male"
+    "5": "Teravangian_female",
+    "6": "Teravangian_male",
+    "7": "Yasna_female",
+    "8": "Zeth_male"
   },
-  "num_characters": 8
+  "num_characters": 9
 }
